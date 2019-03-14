@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Abhishek Raj",
+      "authorEmail": "raj.abhishek.01.1@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
