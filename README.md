@@ -25,7 +25,7 @@ yo react-unified
 
 ## License
 
-MIT © [Abhishek Raj]()
+MIT © [Abhishek Raj](https://github.com/abhishek-raj)
 
 
 [npm-image]: https://badge.fury.io/js/generator-react-unified.svg
